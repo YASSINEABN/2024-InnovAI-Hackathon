@@ -1,5 +1,7 @@
 # SehatyAi: AI-Powered Personal Health Management App
 
+- Watch the video demo of our app [video-demo](https://shorturl.at/HHoY6).
+
 ## Background and Problem Statement
 
 In today's complex healthcare landscape, individuals and families face significant challenges in managing medical information, tracking health histories, and navigating healthcare services. Patients often struggle with:
